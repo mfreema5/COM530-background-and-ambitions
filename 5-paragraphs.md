@@ -1,8 +1,8 @@
-Background and Ambitions
+##Background and Ambitions
 
-You will write four to five paragraphs about your background as well as your ambitions for this class and your career at IIT and beyond.
+^(You will write four to five paragraphs about your background as well as your ambitions for this class and your career at IIT and beyond.)
 
-+++++
+----
 
 I want to write.  I want to find solutions to problems, and share them with other people.  The sharing of any solutions I find is as important as the finding.  Well, maybe not as important, but it is vital.  If I can't show people the solution I've found and/or implemented, and then see it being used, I feel like I've wasted my time.
 
