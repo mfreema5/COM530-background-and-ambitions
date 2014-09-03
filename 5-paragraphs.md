@@ -1,6 +1,6 @@
 ##Background and Ambitions
 
-^(You will write four to five paragraphs about your background as well as your ambitions for this class and your career at IIT and beyond.)
+*You will write four to five paragraphs about your background as well as your ambitions for this class and your career at IIT and beyond.*
 
 ----
 
