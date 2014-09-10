@@ -1,34 +1,119 @@
-/*
-YUI 3.17.2 (build 9c3c78e)
-Copyright 2014 Yahoo! Inc. All rights reserved.
-Licensed under the BSD License.
-http://yuilibrary.com/license/
-*/
+/* screen.css: Screen Styles */
 
-html{color:#000;background:#FFF}body,div,dl,dt,dd,ul,ol,li,h1,h2,h3,h4,h5,h6,pre,code,form,fieldset,legend,input,textarea,p,blockquote,th,td{margin:0;padding:0}table{border-collapse:collapse;border-spacing:0}fieldset,img{border:0}address,caption,cite,code,dfn,em,strong,th,var{font-style:normal;font-weight:normal}ol,ul{list-style:none}caption,th{text-align:left}h1,h2,h3,h4,h5,h6{font-size:100%;font-weight:normal}q:before,q:after{content:''}abbr,acronym{border:0;font-variant:normal}sup{vertical-align:text-top}sub{vertical-align:text-bottom}input,textarea,select{font-family:inherit;font-size:inherit;font-weight:inherit;*font-size:100%}legend{color:#000}#yui3-css-stamp.cssreset{display:none}
+/* Base Styles */
 
-/* Prevent text-size-adjustments */
-html {
-  -webkit-text-size-adjust: 100%;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-  font-size: 20px;
-  line-height: 24px;
-}
-h1 { 
-  font-size: 38px;
-  line-height: 48px;
-  margin-bottom: 24px;
-}
-p {
-  background-color: cyan;
-  margin-top: 60px;
-  margin-bottom: 18px;
+/* Bold on headings, b, and strong */
+h1,h2,h3,h4,h5,h6,b,strong { font-weight: bold; }
+/* Italic on i, em, and cite: */
+i,em,cite { font-style: italic; }
+/* Dotted border and help cursor to abbr and acronym: */
+abbr,acronym { border-bottom: 1px dotted; cursor: help; }
+
+/* Body */
+
+body {
 }
 
+/* Major Divisions */
+
+/* Page (Containing Div) */
+div#page {
+}
+
+/* Header */
+div#header {
+}
+div#header h1 {
+}
+div#header h1 a {
+}
+div#header p.tagline {
+}
+div#header ul.accessibility {
+}
+
+/* Content */
+div#content {
+}
+
+div#main {
+}
+
+div#supporting {
+}
+
+/* Footer */
+div#footer {
+}
+div#footer p.credits {
+}
+div#footer ul.validators {
+}
+div#footer ul.validators li {
+}
+
+/*Navigation*/
+ul#navigation {
+}
+
+ul#navigation li {
+}
+
+ul#navigation li a {
+}
+
+ul#navigation li a:visited {
+}
+
+ul#navigation li a:hover,
+ul#navigation li a:focus {
+}
 
 
+/*Content Typography: Headings*/
+div#content h2 {
+}
+div#content h3 {
+}
+div#content h4 {
+}
+div#content h5 {
+}
+div#content h6 {
+}
 
+/*Content Typography: Paragraphs*/
+div#content p {
+}
 
+/*Content Typography: Unordered Lists*/
+div#content ul {
+}
+div#content ul li {
+}
+/*Nested*/
+div#content * li ul {
+}
+div#content * li ul li {
+}
+
+/*Content Typography: Ordered Lists*/
+div#content ol {
+}
+div#content ol li {
+}
+/*Nested*/
+div#content * li ol {
+}
+div#content * li ol li {
+}
+
+/*Content Typography: Links*/
+div#content a {
+}
+div#content a:visited {
+}
+div#content a:hover,
+div#content a:focus {
+}
 
