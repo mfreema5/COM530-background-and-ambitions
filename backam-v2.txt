@@ -1,0 +1,45 @@
+
+<p>
+I am a graduate student in the IIT Master's program for Technical Communication and Information Design.
+</P>
+
+<aside>
+Why IIT?  Compared to the other Technical Communication programs at universities in Chicago, the IIT program puts much more emphasis on computer-mediated forms of communication, such as web pages and wikis.
+</aside>
+
+
+My research interests currently include:
+
+
+<li>
+The misuse of statistical methods in the social sciences, and everyday life.
+</li>
+
+<aside>
+Computing the average of two (or more) numbers is a statistical method.  Which means that it's by far the most widely used statistical method, and therefore the most misused.  We all do it.
+
+Presented with two numbers when we want only one, it seems obvious to use the average of the two numbers.  One of the many problems with doing that is that not all numbers are equally valid.  Or, to put it another way, not all numbers have the same level of error associated with them.  A simple example might be trying to determine the actual length of a desk that you've never seen.  But two of your coworkers have seen it, and one of them says it's 36 inches deep, but the other says 28 inches.  Do you just take the average and assume the desk is 32 inches deep?  If it turns out that the coworker who said it was 28 inches deep spent three years as a sales associate for an office furniture store, would you still go with the average?  Or might you say that it's “28 or more inches deep”?
+</aside>
+
+<li>
+The endemic use of email for tasks for which it is ill-suited.
+</li>
+
+<aside>
+Email is a terrible way to collaborate on a digital document.  Every time you send an email with the document as an attachment, you're creating a new, uncontrolled copy of the document.  And if you have more than one collaborator making changes to the document, the ever-growing number of copies of the document are all out of synchronization with each other.
+
+You have ways to deal with those problems, don't you?  You rename copies of the document to indicate what version it is and what collaborator last worked on it.  Or you have someone in the circle of collaborator who merges all the various changes together into a “master” document.  Wouldn't it be nice if there was some way for all that to happen automatically?  There are a number of ways (wikis, version-control databases, using desktop applications that support collaboration with network-based file storage, etc.).   But replacing email with something else means that not would people have to learn to use some new application, but the whole process of that new application becoming integrated into the general community of practice would have to happen, too.  The first problem&mdash;learning something new&mdash;is a barrier to even trying the new technology.  The latter problem&mdash;integrating the new technology with the current practices&mdash;is what kills those new technologies that do get tried.
+</aside>
+
+I took a very roundabout path to get to graduate school in technical communication.
+
+I studied chemistry as an undergraduate, and earned enough credit hours in math and English along the way to get minors in both of those.  I worked as an analytical chemist in a quality assurance lab of a specialty gas plant in Arizona for a few years.  From there I was promoted to being a lab manager at a compressed gas plant in Austin, TX.  I was also the quality manager&mdash;which meant that I was in charge of the plant's ISO 9002 quality system. Eventually, I was also the manager in charge of purchasing specialty gases from other vendors.
+
+After a couple of years I grew tired (let's call it “tired”) of having the responsibilities of three full-time positions all rolled into one and assigned to me.
+
+Next I found myself at the University of Cincinnati, where I studied journalism, and worked as a “senior lab associate”.  My job responsibilities could be most easily summed up as “Doing the things the professors didn't want to do”.  I also ran two departmental open computer labs.  I eventually earned a Writing Certificate in Journalism.  The certificate required some hours of internship, which I covered by working for the universities student newspaper.  I mostly did copy-editing, but also picked up various reporting assignments as an internal stringer of sorts, which eventually led to me becoming a columnist.  I had a column on the entertainment page about movies, and later a column on the editorial page, which was not nearly as fun as I had expected it to be.
+
+But once I had gotten the journalism certificate, I discovered that entry-level journalism jobs are not only hard to come by these days, but pay really, really poorly.  Chemistry might not be the highest paying field in the world, but it beats the living daylights out of the starvation-wages that journalist get paid.
+
+For reasons of family, I moved from Cincinnati to south eastern Lousiana, and went back to being a chemist in the specialty gas industry.
+
