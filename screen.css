@@ -24,6 +24,7 @@ div#page {
 div#header {
 }
 div#header h1 {
+  font-family: Helvetica, sans-serif;
 }
 div#header h1 a {
 }
@@ -84,6 +85,7 @@ div#content h6 {
 
 /*Content Typography: Paragraphs*/
 div#content p {
+  font-family: Bookman, serif;
 }
 
 /*Content Typography: Unordered Lists*/
